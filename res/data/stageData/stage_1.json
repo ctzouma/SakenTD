@@ -1,0 +1,22 @@
+{ "stageMap":        "res/data/mapData/testMap.tmx",
+  "waveData":      [{"creepId": 66, "creepNum": 20, "killVal": {"gold": 2}},
+                    {"creepId": 5, "creepNum": 20, "killVal": {"gold": 2}},
+                    {"creepId": 35, "creepNum": 20, "killVal": {"gold": 3}},
+                    {"creepId": 36, "creepNum": 20, "killVal": {"gold": 3}},
+                    {"creepId": 54, "creepNum": 20, "killVal": {"gold": 4}},
+                    {"creepId": 70, "creepNum": 20, "killVal": {"gold": 4}},
+                    {"creepId": 97, "creepNum": 20, "killVal": {"gold": 50, "crystals": 1}},
+                    {"creepId": 56, "creepNum": 20, "killVal": {"gold": 5}},
+                    {"creepId": 21, "creepNum": 20, "killVal": {"gold": 5}},
+                    {"creepId": 17, "creepNum": 20, "killVal": {"gold": 10}}],
+
+  "waypoints":  [{"x": 3, "y": 2}, {"x": 3, "y": 37}, {"x": 33, "y": 37}, {"x": 33, "y": 2}],
+
+  "startGold": 100,
+
+  "unlockStage": 2,
+
+  "clearReward": 20,
+
+  "lives": 30
+}

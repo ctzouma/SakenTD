@@ -1,0 +1,170 @@
+[
+  {
+    "id": 101,
+    "required": null,
+    "name": "Ignis Novice",
+    "cost": 20
+  },
+  {
+    "id": 102,
+    "required": 101,
+    "name": "Ignis Intermediate",
+    "cost": 40
+  },
+  {
+    "id": 103,
+    "required": 102,
+    "name": "Ignis Adept",
+    "cost": 60
+  },
+  {
+    "id": 104,
+    "required": 103,
+    "name": "Ignis Master",
+    "cost": 80
+  },
+  {
+    "id": 201,
+    "required": null,
+    "name": "Aqua Novice",
+    "cost": 20
+  },
+  {
+    "id": 202,
+    "required": 201,
+    "name": "Aqua Intermediate",
+    "cost": 40
+  },
+  {
+    "id": 203,
+    "required": 202,
+    "name": "Aqua Adept",
+    "cost": 60
+  },
+  {
+    "id": 204,
+    "required": 203,
+    "name": "Aqua Master",
+    "cost": 80
+  },
+  {
+    "id": 301,
+    "required": null,
+    "name": "Ventus Novice",
+    "cost": 20
+  },
+  {
+    "id": 302,
+    "required": 301,
+    "name": "Ventus Intermediate",
+    "cost": 40
+  },
+  {
+    "id": 303,
+    "required": 302,
+    "name": "Ventus Adept",
+    "cost": 60
+  },
+  {
+    "id": 304,
+    "required": 303,
+    "name": "Ventus Master",
+    "cost": 80
+  },
+  {
+    "id": 401,
+    "required": null,
+    "name": "Terra Novice",
+    "cost": 20
+  },
+  {
+    "id": 402,
+    "required": 401,
+    "name": "Terra Intermediate",
+    "cost": 40
+  },
+  {
+    "id": 403,
+    "required": 402,
+    "name": "Terra Adept",
+    "cost": 60
+  },
+  {
+    "id": 404,
+    "required": 403,
+    "name": "Terra Master",
+    "cost": 80
+  },
+  {
+    "id": 501,
+    "required": null,
+    "name": "Dark Novice",
+    "cost": 20
+  },
+  {
+    "id": 502,
+    "required": 501,
+    "name": "Dark Intermediate",
+    "cost": 40
+  },
+  {
+    "id": 503,
+    "required": 502,
+    "name": "Dark Adept",
+    "cost": 60
+  },
+  {
+    "id": 504,
+    "required": 503,
+    "name": "Dark Master",
+    "cost": 80
+  },
+  {
+    "id": 601,
+    "required": null,
+    "name": "Light Novice",
+    "cost": 20
+  },
+  {
+    "id": 602,
+    "required": 601,
+    "name": "Light Intermediate",
+    "cost": 40
+  },
+  {
+    "id": 603,
+    "required": 602,
+    "name": "Light Adept",
+    "cost": 60
+  },
+  {
+    "id": 604,
+    "required": 603,
+    "name": "Light Master",
+    "cost": 80
+  },
+  {
+    "id": 701,
+    "required": null,
+    "name": "Void Novice",
+    "cost": 20
+  },
+  {
+    "id": 702,
+    "required": 701,
+    "name": "Void Intermediate",
+    "cost": 40
+  },
+  {
+    "id": 703,
+    "required": 702,
+    "name": "Void Adept",
+    "cost": 60
+  },
+  {
+    "id": 704,
+    "required": 703,
+    "name": "Void Master",
+    "cost": 80
+  }
+]
