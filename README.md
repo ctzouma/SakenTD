@@ -1,7 +1,7 @@
 # SakenTD
 A Tower Defense game inspired off the classic Warcraft 3 map mod - Element TD.  
 Created using Cocos2D-JS.  
-[Click here](https://theonegaron.github.io/SakenTD) to play!
+[Click here](https://ctzouma.github.io/SakenTD/) to play!
 
 ## How to play
 A basic outline of the game is as follows:
